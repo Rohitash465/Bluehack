@@ -14,7 +14,7 @@ printf "\e[1;92m        #                 \e[0m\e[1;93m               #         
 printf "\e[1;92m      #                   \e[0m\e[1;93m             #         #\e[0m\n"
 printf "\e[1;92m   *#                     \e[0m\e[1;93m           #         #\e[0m\n\n"
 printf "                                                        Access bluetooth\n"
-printf "                                                     Made by@:Rocky\n"
+printf "                                                     Made by@:Chintu\n"
 
 printf "\e[1;92m/==========================########========================\\  \e[0m\n"
 printf "\e[1;92m|                             #				   |   \e[0m\n"
